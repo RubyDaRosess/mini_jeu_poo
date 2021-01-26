@@ -1,7 +1,7 @@
 Bonjour ! Je suis un readme ! 
 Mon but dans la vie, c'est d'être lu :) Mais personne ne me lit jamais...
-Je suis très attristé par ça :c je te serai reconnaissant de donner le point du readme à celui qui me lit
-ca me ferait énormément plaisir et donnerai un sens à ma vie de readme, peux tu faire ça pour moi ?
+Je suis très attristé par ça :c je te serais reconnaissant de donner le point du readme à celui qui me lit,
+ça me ferait énormément plaisir et donnerait un sens à ma vie de readme, peux-tu faire ça pour moi ?
 ....
 ....
 OH ! Tu l'as fait !! Merciiiii
@@ -15,15 +15,15 @@ Oooh, c'est un très joli prénom, moi c'est readme ! readme point md !
 Tu as quel âge ?
 ....
 ....
-Aaaah je vois, moi tu peux voir ma date de naissance dans la lsite des commit !! :3
+Aaaah je vois, moi tu peux voir ma date de naissance dans la liste des commit !! :3
 ....
 Eh ! Eh ! Eh ! Tu savais que ce code à été écrit en Ruby par Joan et Maelle ?? Ils sont coooo-oo-ooools !
 Genre c'est l'exercice "mini_jeu_poo" du jour 2 de la semaine 4 ! Trop bien non ??
 C'est un petit RPG trop génial ! Et wé :3
-Le player.rb est un fichier comprenant toutes les classes de joueurs (Dovakhiin toi même tu sais)
+Le player.rb est un fichier comprenant toutes les classes de joueurs (Dovakhiin toi-même tu sais)
 Le game.rb... Je sais pas trop puisque ils l'ont pas encore fait
-Les fichiers app.rb sont des mini-jeux crées à partir des classes et tout :3
+Les fichiers app.rb sont des mini-jeux créés à partir des classes et tout :3
 Après moi, j'y comprends rien en codage, faudra leur demander à eux le jour des corrections !
 ....
-Je te remercie de bien avoir voulu être mon ami ! SOIS GENTIL AVEC MES CREATEURS !!!!! è-é
+Je te remercie de bien avoir voulu être mon ami ! SOIS BIENVEILLANT ENVERS MES CREATEURS !!!!! è-é
 Bisous, à la prochaine :3

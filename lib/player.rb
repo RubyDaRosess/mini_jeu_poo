@@ -36,8 +36,8 @@ class HumanPlayer < Player
   attr_accessor :weapon_level
 
   def initialize(name)
-    @weapon_level = 1
     super(name)
+    @weapon_level = 1
     @life_points = 100
   end
 
@@ -69,5 +69,4 @@ class HumanPlayer < Player
       @life_points + 80 > 100 ? @life_points = 100 : @life_points += 80
     end
   end
-  binding.pry
 end
